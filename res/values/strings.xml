@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     
+    <string name="app_name">Tuan++</string>
+    <string name="hello">Hello tuan-android!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中...</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    <string name="title_activity_main">Tuan++</string>
+     <string name="title_main">Tuan++</string>  
+     
+      <string name="title_tag_activity">选择标签</string>
+      
+      <string name="title_city_activity">选择城市</string>
+      <string name="load_nodata">没有数据哦</string>
+</resources>
